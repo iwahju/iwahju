@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-003D8F?style=flat&logo=visual-studio-code&logoColor=007ACC)[MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-&logo=MongoDB)[React](https://img.shields.io/badge/React-20232A?style=flat-&logo=react&logoColor=61DAFB)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-003D8F?style=flat&logo=visual-studio-code&logoColor=007ACC)![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-&logo=MongoDB)![React](https://img.shields.io/badge/React-20232A?style=flat-&logo=react&logoColor=61DAFB)
 
 
 ## Connect with Me 
