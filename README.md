@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 - <a href="https://www.linkedin.com/in/irenewahju/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=ffffff"></a>
 - <a href="mailto:iwahju@emory.edu" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-34a853?style=flat&logo=gmail&logoColor=ffffff"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/iwahju/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwahju&layout=compact)](https://github.com/iwahju/github-readme-stats)
 
 
