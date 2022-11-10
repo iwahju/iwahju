@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-003D8F?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-&logo=MongoDB)
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ## Connect with Me 
 
 
