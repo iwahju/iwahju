@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Technical Skills
 - 💻 &nbsp;
   ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
-  ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat&logo=java&logoColor=ffffff)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
   ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-003D8F?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-&logo=MongoDB)
 - ![React](https://img.shields.io/badge/React-20232A?style=flat-&logo=react&logoColor=61DAFB)
-- 
+
 ## Connect with Me 
 
 
