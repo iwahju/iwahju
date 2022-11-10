@@ -5,16 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Virtual Fridge website that pushes sustainability.
-- 🌱 I’m currently learning on how to make an IOS app.
-- 🎓 Studying computer science at Emory Unversity
-- 🛫 Love to travel to new and diverse places
 -->
 
 ## About Me
 
-- 🔭 I’m currently working on Virtual Fridge website that pushes sustainability.
-- 🌱 I’m currently learning on how to make an IOS app.
+- 🔭 I’m currently working on Virtual Fridge website that pushes sustainability 
+- 🌱 I’m currently learning on how to make an IOS app and machine learning
 - 🎓 Studying computer science at Emory Unversity
 - 🛫 Love to travel to new and diverse places
 
@@ -30,7 +26,7 @@ Here are some ideas to get you started:
   ![LaTeX](https://img.shields.io/badge/-LaTeX-0516379?style=flat&logo=latex)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-003D8F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
+- 💻 db：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
 
 
 ## Connect with Me 
