@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 ## About Me
 
-- 🔭 I’m currently working on a Affirmation App for a startup
-- 🌱 I’m currently learning on how to make an IOS app and machine learning
-- 🎓 Studying computer science at Emory Unversity
+- 🔭 I’m currently working on an Affirmation App
+- 🌱 I’m currently learning how to make an IOS app and machine learning
+- 🎓 Studying computer science at Emory University
 - 🛫 Love to travel to new and diverse places
 
 
