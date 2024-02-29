@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 ## About Me
 
 - 🔭 I’m currently working on an Affirmation App
-- 🌱 I’m currently learning how to make an IOS app and RAG Chatbot using LangChain and StreamLit
-- 🎓 Studying computer science at Emory University
+- 🌱 I’m currently learning to develop a RAG Chatbot using LangChain and LLM 
+- 🎓 Computer Science at Emory University
 - 🛫 Love to travel to new and diverse places
 
 
