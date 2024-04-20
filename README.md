@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-- 🔭 I’m currently working on an Affirmation App
+- 🔭 I am a self-taught Security Engineer
 - 🌱 I’m currently learning to develop a RAG Chatbot using LangChain and LLM 
 - 🎓 Computer Science at Emory University
 - 🛫 Love to travel to new and diverse places
